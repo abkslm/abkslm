@@ -3,7 +3,7 @@
 
 <h2>I'm currently a Computer Science student at the University of San Francisco</h2>
   
-<h3>It's nice to meet you! My pronouns are <a href="https://pronouns.is/he">he/him</a>. :man_technologist:</h3>
+<h3>It's nice to meet you! My pronouns are <a href="https://pronoun.is/he">he/him</a>. :man_technologist:</h3>
 
 <h3>My interests include:</h3>
 <p><ul>
