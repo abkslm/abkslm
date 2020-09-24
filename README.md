@@ -24,7 +24,7 @@
     <li>Web Design & Engineering</li>
     <li>Python 3</li>
   </ul></p>
-
+ 
 <h3>Want to get in touch? Shoot me an <a href="mailto:abmoore3@dons.usfca.edu">email</a>!
   <h4>Feeling social?
     <a href="https://www.linkedin.com/in/andrwmoore/"><img height="16" hspace="5" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"></a>
