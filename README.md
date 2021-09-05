@@ -19,7 +19,7 @@
 <h3>My experience includes:</h3>
 <p><ul>
     <li>Linux Server Administration</li>
-    <li>Command-line Interface</li>
+    <li>Command-Line Interface</li>
     <li>Networking</li>
     <li>Web Design & Engineering</li>
     <li>Python 3</li>
