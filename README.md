@@ -23,6 +23,7 @@
     <li>Networking</li>
     <li>Web Design & Engineering</li>
     <li>Python 3</li>
+    <li>Java 8</li>
   </ul></p>
  
 <h3>Want to get in touch? Shoot me an <a href="mailto:abmoore3@dons.usfca.edu">email</a>!
