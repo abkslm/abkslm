@@ -18,18 +18,15 @@
 
 <h3>My experience includes:</h3>
 <p><ul>
-    <li>Linux Server Administration</li>
-    <li>Command-Line Interface</li>
-    <li>Networking</li>
+    <li>Unix Administration</li>
+    <li>Systems, Networking, etc.</li>
     <li>Web Design & Engineering</li>
-    <li>Python 3</li>
-    <li>Java 8</li>
+    <li>Shell</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C</li>
   </ul></p>
  
 <h3>Want to get in touch? Shoot me an <a href="mailto:abmoore3@dons.usfca.edu">email</a>!
-  <h4>Feeling social?
-    <a href="https://www.linkedin.com/in/andrwmoore/"><img height="16" hspace="5" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg"></a>
-    <a href="https://twitter.com/andrwmoore"><img height="16" hspace="5" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg"></a>
-    <a href="https://instagram.com/andrew.b.moore"><img height="16" hspace="5" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg"></a>
     
     
