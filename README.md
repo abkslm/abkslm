@@ -21,6 +21,8 @@
     <li>Unix Administration</li>
     <li>Systems, Networking, etc.</li>
     <li>Web Design & Engineering</li>
+    <li>Data Systems Administration</li>
+    <li>Data Mining & Analysis</li>
     <li>Shell</li>
     <li>Python</li>
     <li>Java</li>
