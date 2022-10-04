@@ -1,7 +1,7 @@
 
 <h1>Hey there! My name is Andrew Blakeslee Moore.</h1>
 
-<h2>I'm currently a Computer Science student at the University of San Francisco</h2>
+<h2>I'm currently a Computer Science & Biology student at the University of San Francisco</h2>
   
 <h3>It's nice to meet you! My pronouns are <a href="https://pronoun.is/he">he</a>/<a href="https://pronoun.is/they">they</a>. :man_technologist:</h3>
 
