@@ -7,17 +7,17 @@
 
 <h3>My interests include:</h3>
 <p><ul>
+    <li>Digital Health Technologies</li>
     <li>Artificial Intelligence</li>
-    <li>Natural Language Processing</li>
     <li>Data Analysis & Visualization</li>
     <li>Distributed Systems</li>
     <li>Backend Engineering</li>
     <li>Network Technologies</li>
-    <li>Health Technologies</li>
   </ul></p>
 
 <h3>My experience includes:</h3>
 <p><ul>
+    <li>Biometric Health</li>
     <li>Unix Administration</li>
     <li>Systems, Networking, etc.</li>
     <li>Web Design & Engineering</li>
