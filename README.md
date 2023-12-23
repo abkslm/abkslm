@@ -7,6 +7,7 @@
 
 <h3>My interests include:</h3>
 <p><ul>
+    <li>Computational Psychology</li>
     <li>Human Interaction and Interfaces</li>
     <li>Digital Health Technologies</li>
     <li>Artificial Intelligence</li>
