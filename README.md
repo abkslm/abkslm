@@ -29,6 +29,6 @@
     <li>C</li>
   </ul></p>
  
-<h3>Want to get in touch? Send me an <a href="mailto:abmoore3@dons.usfca.edu">email</a>!
+<h3>Want to get in touch? Send me an <a href="mailto:andrew@blakeslee.me">email</a>!
     
     
