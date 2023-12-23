@@ -7,7 +7,7 @@
 
 <h3>My interests include:</h3>
 <p><ul>
-    <li>Human Interfaces and Interaction</li>
+    <li>Human Interaction and Interfaces</li>
     <li>Digital Health Technologies</li>
     <li>Artificial Intelligence</li>
     <li>Data Analysis & Visualization</li>
