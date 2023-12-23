@@ -7,12 +7,10 @@
 
 <h3>My interests include:</h3>
 <p><ul>
+    <li>Human Interfaces and Interaction</li>
     <li>Digital Health Technologies</li>
     <li>Artificial Intelligence</li>
     <li>Data Analysis & Visualization</li>
-    <li>Distributed Systems</li>
-    <li>Backend Engineering</li>
-    <li>Network Technologies</li>
   </ul></p>
 
 <h3>My experience includes:</h3>
@@ -21,6 +19,7 @@
     <li>Unix Administration</li>
     <li>Systems, Networking, etc.</li>
     <li>Web Design & Engineering</li>
+    <li>Human Interfaces/UI Design</li>
     <li>Data Systems Administration</li>
     <li>Data Mining & Analysis</li>
     <li>Shell</li>
@@ -29,6 +28,6 @@
     <li>C</li>
   </ul></p>
  
-<h3>Want to get in touch? Shoot me an <a href="mailto:abmoore3@dons.usfca.edu">email</a>!
+<h3>Want to get in touch? Send me an <a href="mailto:abmoore3@dons.usfca.edu">email</a>!
     
     
