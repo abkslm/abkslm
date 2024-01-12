@@ -9,7 +9,8 @@
 <p><ul>
     <li>Computational Psychology</li>
     <li>Digital Health Technologies</li>
-    <li>Human Interaction and Interfaces</li>
+    <li>Human-Computer Interaction and Interfaces</li>
+    <li>Accessible Technologies and Interfaces</li>
     <li>Artificial Intelligence/Machine Learning</li>
     <li>Data Analysis & Visualization</li>
   </ul></p>
