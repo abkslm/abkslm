@@ -1,35 +1,34 @@
 
-<h1>Hey there! My name is Andrew Blakeslee Moore.</h1>
+# Hey there! My name is Andrew Blakeslee Moore.
+I am a recent B.S., Computer Science, graduate of the University of San Francisco
 
-<h2>I'm currently a Computer Science student at the University of San Francisco</h2>
-  
-<h3>It's nice to meet you! My pronouns are <a href="https://pronoun.is/he">he</a>/<a href="https://pronoun.is/they">they</a>. :man_technologist:</h3>
+### My interests include...
+- Academic Research
+- Machine Learning & Artificial Intelligence
+- Distributed Systems
+- Systems Reliability
+- Systems Architecture
+- Network Systems
+- Biometric Analysis
+- Human-Computer Interaction
+- Human and Machine Cognition
 
-<h3>My interests include:</h3>
-<p><ul>
-    <li>Computational Psychology</li>
-    <li>Digital Health Technologies</li>
-    <li>Human-Computer Interaction and Interfaces</li>
-    <li>Accessible Technologies and Interfaces</li>
-    <li>Artificial Intelligence/Machine Learning</li>
-    <li>Data Analysis & Visualization</li>
-  </ul></p>
+### My _primary_ experience is in...
+- Academic Research
+- Machine Learning & Artificial Intelligence
+- Systems Architecture
+- Network Systems
+- Human-Computer Interaction
+- Human and Machine Cognition
 
-<h3>My experience includes:</h3>
-<p><ul>
-    <li>Biometric Health</li>
-    <li>Unix Administration</li>
-    <li>Systems, Networking, etc.</li>
-    <li>Web Design & Engineering</li>
-    <li>Human Interfaces/UI Design</li>
-    <li>Data Systems Administration</li>
-    <li>Data Mining & Analysis</li>
-    <li>Shell</li>
-    <li>Python</li>
-    <li>Java</li>
-    <li>C</li>
-  </ul></p>
- 
-<h3>Want to get in touch? Send me an <a href="mailto:andrew@blakeslee.me">email</a>!
-    
-    
+\(Yes, I am a bit of a Swiss Army Knife :)\)
+
+### Want to get in touch?
+Email me @ andrew (at) blakeslee (dot) me
+
+### My resume is available at...
+[www.blakeslee.me/resume](https://www.blakeslee.me/resume)
+
+
+
+**_Recruiters and Hiring Managers: My most significant projects are made private to comply with academic and/or legal restrictions. Please contact me for access or demonstration._**
